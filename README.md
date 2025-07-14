@@ -10,3 +10,7 @@ Microsoft Q# Coding Contest - Summer 2018 - Warmup
 ## B. Generate Bell state
 
 [My solution](./B/src/Main.qs)
+
+## C. Generate GHZ state
+
+[My solution](./C/src/Main.qs)

@@ -14,3 +14,7 @@ Microsoft Q# Coding Contest - Summer 2018 - Warmup
 ## C. Generate GHZ state
 
 [My solution](./C/src/Main.qs)
+
+## D. Distinguish plus state and minus state
+
+[My solution](./D/src/Main.qs)

@@ -18,3 +18,7 @@ Microsoft Q# Coding Contest - Summer 2018 - Warmup
 ## D. Distinguish plus state and minus state
 
 [My solution](./D/src/Main.qs)
+
+## E. Distinguish Bell states
+
+[My solution](./E/src/Main.qs)

@@ -22,3 +22,7 @@ Microsoft Q# Coding Contest - Summer 2018 - Warmup
 ## E. Distinguish Bell states
 
 [My solution](./E/src/Main.qs)
+
+## F. Distinguish multi-qubit basis states
+
+[My solution](./F/src/Main.qs)
